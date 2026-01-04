@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タルトなキモチ",
+  "base_artist": "フルーツタルト",
+  "createdAt": "2026-01-04T03:35:44.275957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タルトなキモチ",
+      "artist": "フルーツタルト",
+      "has_synced": false,
+      "path": "select/pl_01_タルトなキモチ_フルーツタルト.txt"
+    }
+  ]
+}
